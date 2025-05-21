@@ -1,6 +1,6 @@
 # 🌤️ Weather-App
 
-A clean, responsive weather application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data based on the city name input and displays the current weather, humidity, wind speed, and a 4-day forecast. The app also handles errors gracefully when an invalid city is entered.
+A clean, responsive weather application built using **HTML**, **CSS**, and **JavaScript**. It fetches real-time weather data based on the city name input and displays the current weather, humidity, wind speed, and a 5-day forecast. The app also handles errors gracefully when an invalid city is entered.
 
 ---
 
@@ -13,7 +13,7 @@ A clean, responsive weather application built using **HTML**, **CSS**, and **Jav
   - Weather description
   - Humidity level
   - Wind speed
-- 📅 4-day weather forecast
+- 📅 5-day weather forecast
 - ❌ 404 error message for invalid city names
 - 💻 Responsive and sleek UI with modern design
 
